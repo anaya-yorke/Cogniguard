@@ -1,7 +1,7 @@
 # Cogniguard 🧠
 
 <p align="center">
-  <img src="../Cogniguard.png" alt="Cogniguard Logo" width="500"/>
+  <img src="Cogniguard.png" alt="Cogniguard Logo" width="500"/>
 </p>
 
 ## What is Cogniguard?
