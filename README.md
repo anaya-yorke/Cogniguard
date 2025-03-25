@@ -8,7 +8,7 @@
 
 Cogniguard is a cognitive overload detection system that analyzes EEG brain signals to identify mental fatigue. When it detects overload patterns, it provides timely alerts to help users take breaks before experiencing burnout.
 
-## Why Cogniguard?
+## Why Cogniguard? 
 
 In today's digital environment, we often work for extended periods without recognizing when our cognitive performance is declining. Cogniguard addresses this by:
 
